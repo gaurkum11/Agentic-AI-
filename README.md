@@ -1,6 +1,6 @@
 # **Agentic-AI-**
 
-**Agentic-AI-** is a modular framework designed for building and managing AI agents capable of performing complex tasks through collaboration and tool integration. It provides a structured approach to define agents, assign tasks, and utilize tools, enabling the development of sophisticated AI-driven applications.
+**Agentic-AI-**  managing AI agents capable of performing complex tasks through collaboration and tool integration. It provides a structured approach to define agents, assign tasks, and utilize tools, enabling the development of sophisticated AI-driven applications.
 
 ## **Features**
 
